@@ -315,7 +315,11 @@ body {
 .popular-categories-item {
     font-size: 12px;
     line-height: 28px;
+}
+
+.category-link {
     color: #828282;
+    text-decoration: none;
 }
 
 .footer-contacts {
