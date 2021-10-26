@@ -108,9 +108,11 @@ body {
     color: #000;
     text-decoration: none;
 }
+
 .categories-item {
     margin-right: 40px;
 }
+
 .banner {
     background-color: #F13C6E;
     background-image: url(images/main_image.jpg);
@@ -345,9 +347,6 @@ body {
 .copyright {
     background-color: #EFEFEF;
     padding: 25px 0;
-}
-
-.copyright {
     font-size: 12px;
     line-height: 14px;
     color: #828282;
